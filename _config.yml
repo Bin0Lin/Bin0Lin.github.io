@@ -7,7 +7,7 @@ title:            不确定物终点站
 #tagline:          '我的博客'
 description:      '要识乾坤大，也怜草木青'
 url:              https://Bin0Lin.github.io
-baseurl:          '/Bin0Lin.github.io'
+baseurl:          '/blogs'
 
 paginate:         5
 # paginate_path:    '/page:num'
