@@ -3,15 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Bin Lin
-tagline:          'My Blog'
+title:            林滨
+tagline:          '我的博客'
 description:      '要识乾坤大，也怜草木青'
 url:              https://Bin0Lin.github.io
 baseurl:          '/Bin0Lin.github.io'
-
-author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
