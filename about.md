@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: 关于我
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+林滨
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+武汉大学
+中国石油大学（北京）
+the Petroleum Institute (Abu Dhabi)
+北京网格天地软件技术服务股份有限公司
+成都优自西方国际贸易有限公司
